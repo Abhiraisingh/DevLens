@@ -1,0 +1,6 @@
+{
+  "name": "DevLens",
+  "description": "Production-grade AI code review and developer productivity platform with real GitHub integration, deterministic static analysis, and actionable insights.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
